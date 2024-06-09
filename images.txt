@@ -3,5 +3,5 @@ elasticsearch:8.13.0
 openjdk:23-ea-17-jdk-bullseye
 mysql:5.7.42-debian
 mysql:8.0.37-debian
-nginx
-redis
+nginx:stable-alpine3.19-perl
+redis:7.0.15-alpine
