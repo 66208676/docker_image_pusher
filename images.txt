@@ -1,3 +1,4 @@
+alpine
 elasticsearch:8.13.0
 openjdk:23-ea-17-jdk-bullseye
 mysql:5.7.42-debian
