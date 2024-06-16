@@ -1,1 +1,1 @@
-apache/rocketmq:5.2.0
+cnk3x/xunlei:3.11.2
