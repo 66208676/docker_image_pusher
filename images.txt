@@ -6,3 +6,4 @@ mysql:8.0.37-debian
 nginx:stable-alpine3.19-perl
 redis:7.0.15-alpine
 linuxserver/jellyfin:10.9.6
+cnk3x/xunlei
