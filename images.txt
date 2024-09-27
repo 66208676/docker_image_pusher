@@ -2,3 +2,4 @@ cnk3x/xunlei:3.11.2
 xhofe/alist
 deluan/navidrome
 dreamacro/clash
+gitea/gitea
